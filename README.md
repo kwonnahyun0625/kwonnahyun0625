@@ -32,11 +32,15 @@
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
-    <p>
-        <a href="https://linkedin.com/in/NahyunKwon"><img src="https://img.shields.io/badge/-Nahyun%20Kwon%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/nahyun-kwon-9a466628b/" alt="LinkedIn Badge"></a> 
-<a href="https://www.youtube.com/c/NahyunKwon"><img src="https://img.shields.io/badge/-Nahyun Kwon-informational?style=plastic&amp;labelColor=informational&amp;logo=YouTube&amp;link=https://www.youtube.com/channel/UCqxgYZfppcfLfjIAwYrALZw" alt="Youtube Badge"></a>
-   </p>
+<h2>Connect with me</h2>
+<p>
+    <a href="https://www.linkedin.com/in/nahyun-kwon-9a466628b/" target="_blank">
+        <img src="https://img.shields.io/badge/-Nahyun%20Kwon%20-blue?style=plastic&labelColor=blue&logo=LinkedIn" alt="LinkedIn Badge">
+    </a> 
+    <a href="https://www.youtube.com/channel/UCqxgYZfppcfLfjIAwYrALZw" target="_blank">
+        <img src="https://img.shields.io/badge/-Nahyun%20Kwon-informational?style=plastic&labelColor=informational&logo=YouTube" alt="YouTube Badge">
+    </a>
+</p>
 
  <!-- Conecct section: END -->
  
